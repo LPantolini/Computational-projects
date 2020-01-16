@@ -1,0 +1,5 @@
+To run the simulation execute the following commands inside the ROOT environment:
+» .L compilemyclass.C
+» compilemyclass();
+» Fold_protein();
+
